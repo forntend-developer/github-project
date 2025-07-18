@@ -3,7 +3,7 @@ name: 😊 버그 제보
 about: 기능 오류나 문제를 보고합니다.
 title: "[Bug]"
 labels: bug
-assignees:''
+assignees: ''
 ---
 
 
